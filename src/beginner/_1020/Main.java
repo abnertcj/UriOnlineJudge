@@ -1,4 +1,4 @@
-package beginner._1020._1019;
+package beginner._1020;
 
 import java.util.Scanner;
 
